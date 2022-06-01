@@ -1,5 +1,3 @@
-
-
 if __name__ == "__main__":
     print("\n### Welcome to the Programming Language Basic Version Shell ###\n")
     while True:

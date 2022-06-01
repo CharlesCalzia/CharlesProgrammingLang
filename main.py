@@ -37,6 +37,7 @@ print(tokens)
 
 variables = {"pi": 3.1415926535, "e": 2.718281828}
 
+# Lexing
 
 def t_clear(t):
     r'clear'
